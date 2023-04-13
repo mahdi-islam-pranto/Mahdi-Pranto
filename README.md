@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mahdi-Pranto
-- 👀 I’m interested in WebDev Software dev Python machine learning Mobile Apps etc.
-- 🌱 I’m currently learning Flutter, DSA
-- 💞️ I’m looking to collaborate on Any Webdev project
+- 👀 Interested in WebDev Software dev Python machine learning Mobile Apps etc.
+- 🌱 Currently learning Flutter, DSA
+- 💞️ Looking to collaborate on Any Webdev project
 - 📫 How to reach me (mahdiprantoblog@gmail.com)
 
 <!---
